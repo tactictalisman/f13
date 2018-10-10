@@ -5,7 +5,7 @@ A repository of my blueprint strings used in the game [Factorio](https://www.fac
 ## Early Game
 
 ## Logistics
-- yellow-belt-balancer - [string](https://github.com/tactictalisman/f13/blob/master/logistics/belt-balancer/belt-balancer.txt)[image](https://github.com/tactictalisman/f13/blob/master/logistics/belt-balancer/yellow-belt-balancer.png)
+- yellow-belt-balancer - ([string](https://github.com/tactictalisman/f13/blob/master/logistics/belt-balancer/belt-balancer.txt)) ([image](https://github.com/tactictalisman/f13/blob/master/logistics/belt-balancer/yellow-belt-balancer.png))
 
 ## Science
 
