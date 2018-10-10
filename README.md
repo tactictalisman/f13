@@ -5,3 +5,13 @@ A repository of my blueprint strings used in the game [Factorio](https://www.fac
 ## Early Game
 
 ## Logistics
+
+## Science
+
+## Trains
+
+## Oil
+
+## Factories
+
+## Military
